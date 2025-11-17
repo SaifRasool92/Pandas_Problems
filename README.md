@@ -1,4 +1,7 @@
-
+<div  align='center'>
+<img height="186" alt="Pandas Practice Problems" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" />
+</div>
+<br><br>
 <img width="1963" height="186" alt="Pandas Practice Problems" src="https://github.com/user-attachments/assets/e2bf43ed-8c97-45a1-a328-441ae6d48a30" />
 
 
@@ -57,6 +60,8 @@ pip install pandas
 
 Contributions are welcome. You may add your own problems, optimize solutions, or improve explanations. Please follow clean code practices when submitting changes.
 
+
+<!--
 <div  align='center'>
 <img height="186" alt="Pandas Practice Problems" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" />
-</div>
+</div>-->
