@@ -57,4 +57,6 @@ pip install pandas
 
 Contributions are welcome. You may add your own problems, optimize solutions, or improve explanations. Please follow clean code practices when submitting changes.
 
-
+<div  align='center'>
+<img height="186" alt="Pandas Practice Problems" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" />
+</div>
